@@ -6,7 +6,7 @@ This is a MERN stack-based project consisting of a server-side API built with No
 ##### API: Contains the server-side code built with Node.js and Express. It includes APIs for performing CRUD operations on users and posts.
 ##### App: Contains the React application.
 
-##Prerequisites
+## Prerequisites
 Make sure you have the following dependencies installed:
 
 ###### 1. Node.js
@@ -14,26 +14,26 @@ Make sure you have the following dependencies installed:
 
 ## 1.Getting Started
 Clone the repository:
-    *git clone <repository_url>*
+    git clone <repository_url>
 
 ## 2.Install the dependencies:
-    *# Navigate to the API folder*
-    *cd API*
-    *npm install*
-    *# Navigate to the App folder*
-    *cd ../App*
-    *npm install*
+    # Navigate to the API folder
+    cd API
+    npm install
+    # Navigate to the App folder
+    cd ../App
+    npm install
 
 ## 3.Start the Server :
-    *# Navigate to the API folder*
-    *cd API*
-    *npm start*
+    # Navigate to the API folder
+    cd API
+    npm start
 
 ## 4.Start the React Application :
-    *# Navigate to the App folder*
-    *cd App*
-    *npm start*
-
+    # Navigate to the App folder
+    cd App
+    npm start
+    
  
 ### Backend Packages
 * bcrypt: A library for hashing passwords to enhance security.
